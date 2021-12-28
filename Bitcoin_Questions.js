@@ -15,7 +15,7 @@ intent(
     'how to use this',
     'what can I do here',
     'what (should I|can I|to) say',
-    'what commands are available',
+    'what commaAAAAAAAAAAAAAAAAAAAAAAAAAAnds are available',
     reply('Just ask me: (what is Bitcoin price|how much is Bitcoin in euro|what was the Bitcoin price over the past year)'),
 );
 

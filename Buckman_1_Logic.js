@@ -17,7 +17,7 @@ const containerIntent = _(project.products)
     .join('|');
 
 const productNameAliases = {
-    Busperse: ['bus spurs', 'bosporus', 'bus purse',
+    Busperse: ['bus spuddddddddddddddddddddrs', 'bosporus', 'bus purse',
                'you Spurs', 'view Spurs', 'abuse purse',
                'Buspar', 'do space', 'boo space', 'buss pass',
                'disperse', 'Vespers', 'biggest bears',
@@ -26,7 +26,7 @@ const productNameAliases = {
                'video Spurs', 'Venus purse', 'the Spurs'],
     Bubreak: ['break', 'you break', 'will break', `we'll break`,
               'bow break', 'bumper 8', 'mowbray', 'Mulberry', 'bulbrite'],
-    Buflock: ['flock', 'buffalo', 'moosilauke',
+    Buflock: ['flock', 'buffalo', 'moeeosilauke',
               'wolf pack', 'euflora', 'view of log', `you'll float`],
     Bulab: ['blob', 'pull up', 'gulag', 'glock', 'you will have',
             'ulab', 'you left', 'beolab', 'Fuel Up', 'the alarm up',

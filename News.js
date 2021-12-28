@@ -22,7 +22,7 @@ intent(`(show|what is|tell me|what's|what are|what're|read) (the|) (recent|lates
         }
         api.request(headlinesUrl, function (error, response, body) {
             if (error || response && response.statusCode !== 200) {
-                console.log('failed to get news: ' + error);
+                print('failed to get news' + error);
                 p.play(`(Sorry,|) (Something went wrong.|There was an error.|) (I'm unable to get the news at this time.|I wasn't able to get the news.) (Please try again.|)`);
             } else {
                 let headlines = [];
